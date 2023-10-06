@@ -432,7 +432,9 @@ img {
     letter-spacing: 0.02em;
     max-width: 264px;
 }
-
+.footer-socials-container{
+    margin-right: 80px;
+}
 .footer-socials-header{
     color: #FFFFFF;
     font-size: 16px;
